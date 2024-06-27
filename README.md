@@ -1,5 +1,7 @@
 # README
 
+LINK TO GITHUB REP: https://github.com/markuswrba/Explainable_AI_SHAP
+
 ## Overview
 
 This project involves analyzing and interpreting machine learning models using SHAP explanations. The primary focus is on two datasets: MRI brain scans for tumor classification and clinical data for heart disease prediction. The objective is to compare the interpretability of models trained on image data versus tabular data and investigate how SHAP explanations can enhance understanding of model predictions.
