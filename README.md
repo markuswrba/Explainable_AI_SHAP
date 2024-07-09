@@ -6,6 +6,11 @@ LINK TO GITHUB REP: https://github.com/markuswrba/Explainable_AI_SHAP
 
 This project involves analyzing and interpreting machine learning models using SHAP explanations. The primary focus is on two datasets: MRI brain scans for tumor classification and clinical data for heart disease prediction. The objective is to compare the interpretability of models trained on image data versus tabular data and investigate how SHAP explanations can enhance understanding of model predictions.
 
+The training process for the models is time-intensive, and as such, the pre-trained models have been stored in Keras format. Due to the large size of these Keras files, they cannot be uploaded directly. For users who wish to explore the notebook, you have two options:
+
+- Train the Models Locally: You can run the provided code on your own machine to train the models.
+- Request Pre-trained Models: Alternatively, you can contact the authors to obtain the pre-trained Keras files.
+
 ## Datasets
 
 ### MRI Brain Tumor Dataset
@@ -43,3 +48,8 @@ This project involves analyzing and interpreting machine learning models using S
 - seaborn
 - numpy
 - Pandas
+
+### Contact: 
+
+Markus Wrba: markus.wrba@outlook.com  
+Elias Kolarik: e.kolarik@gmx.nat
